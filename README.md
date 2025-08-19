@@ -6,13 +6,13 @@
 ---
 
 ## 📂 폴더 구조
-
+```
 .
 ├── docker/         # Docker 기초 및 컨테이너 실습
 ├── nodejs_express/ # Node.js + Express 기본기 및 서버 구축
 ├── supabase/       # Supabase (Backend as a Service) 활용 학습
 └── .gitattributes  # Git 설정 파일
-
+```
 ## 📘 학습 주제별 정리
 
 ### 🐳 Docker
